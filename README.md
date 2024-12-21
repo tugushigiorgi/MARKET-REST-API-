@@ -1,7 +1,7 @@
 
 
 
-Trade Market" with a Three-Layer Architecture. Data Access Layer (DAL) is used from the Trade Market task – DAL, Business Logic Layer (BLL) is used from the Trade Market task – BLL . each layer includes detailed redme file
+Trade Market" with a Three-Layer Architecture. Data Access Layer (DAL) is used from the Trade Market DAL, Business Logic Layer (BLL) is used from the Trade Market  BLL . each layer includes detailed readme file
 
 
 
