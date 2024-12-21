@@ -6,11 +6,7 @@
 Supermarkets sell goods of various categories. The customers can shop anonymously or by logging in. When buying, a receipt is created with a list of goods purchased in a particular market.
 
 
-## Task
 
-Make a Business Logic Layer (BLL) for the electronic system **"Trade Market"** with a three-layered architecture in the form of dynamic library called “Business”. Data Access Layer (DAL) is used from the Trade Market task – DAL.
-
-The structure of the BLL project in the final form:
 - The folder **Models** contains classes of logic’s models - it is necessary to develop models according to the diagram (fig.).
 - The folder **Interfaces** contains BLL service interfaces.
 - The folder **Services** contains service classes that implement interfaces from the folder **Interfaces** – all services must be implemented according to interfaces from the folder **Interfaces**.
