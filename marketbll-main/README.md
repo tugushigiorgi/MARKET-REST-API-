@@ -22,4 +22,4 @@ ProductCategory <-> ProductCategoryModel
 in the AutomapperProfile class.
 - The folder **Validation** which contains **MarketException.cs** file – make the class of user exception **MarketException**.
 
-![Business Entities](/Business/BusinessModels_Scheme.jpeg)
+
