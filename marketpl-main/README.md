@@ -8,12 +8,9 @@ Supermarkets sell goods of various categories. The customers can shop anonymousl
 
 ## Task
 
-(Presentation Layer, PL) for the electronic system **"Trade Market"** with a Three-Layer Architecture as an asp.net application named WebAPI with functionality according route list bellow. Data Access Layer (DAL) is used from the Trade Market task – DAL, Business Logic Layer (BLL) is used from the Trade Market task – BLL.
-The structure of the PL project in the final form:
+(Presentation Layer, PL) for the electronic system **"Trade Market"** with a Three-Layer Architecture. Data Access Layer (DAL) is used from the Trade Market task – DAL, Business Logic Layer (BLL) is used from the Trade Market task – BLL.
 
-- The folder **Controllers** contains Web API classes of controllers.
-- The project root folder contains file **appsettings.Development.json**. 
-- The project root folder contains **Startup.cs** file. For the level DAL and BLL make DI at the **ConfigureServices** method in **Startup** class. 
+
 
 
 
