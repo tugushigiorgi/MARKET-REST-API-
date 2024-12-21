@@ -7,10 +7,10 @@ Supermarkets sell goods of various categories. The customers can shop anonymousl
 
 
 
-- The folder **Models** contains classes of logic’s models - it is necessary to develop models according to the diagram (fig.).
+- The folder **Models** contains classes of logic’s models
 - The folder **Interfaces** contains BLL service interfaces.
-- The folder **Services** contains service classes that implement interfaces from the folder **Interfaces** – all services must be implemented according to interfaces from the folder **Interfaces**.
-- The root folder of the project contains **AutomapperProfile.cs** file to display DAL entities in the BLL model. And opposite – implement two-way view 
+- The folder **Services** contains service classes that implement interfaces from the folder **Interfaces** –
+- The root folder of the project contains **AutomapperProfile.cs** file to display DAL entities in the BLL model. And opposite 
 ```
 Product <-> ProductModel
 Customer <-> CustomerModel
